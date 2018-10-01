@@ -1,0 +1,4 @@
+#!/bin/bash 
+eval $(docker-machine env Char)
+
+# docker-machine env Char > pour voir le resultat
